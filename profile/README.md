@@ -4,7 +4,7 @@
 
 ### Build systems. Solve problems. Engineer the future.
 
-[![Website](https://img.shields.io/badge/Website-zynocodex.dev-4B5563?style=flat-square)](https://devziaus.tech)
+[![Website](https://img.shields.io/badge/Website-zynocodex.dev-4B5563?style=flat-square)](https://zynocodex.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZynoCodex-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/devziaus)
 [![X](https://img.shields.io/badge/X-%40zynocodex-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DevZiaus)
 
@@ -85,7 +85,7 @@ Have a system that needs rethinking, or an idea that needs a solid foundation? W
 
 <div align="center">
 
-**[zynocodex.dev](https://devziaus.tech)** · **[[email protected]](mailto:[email protected])**
+**[zynocodex.dev](https://zycodex.githu.io)** · **[[hello@zynocodex.dev]](mailto:[zynocdex@gmail.com])**
 
 </div>
 
