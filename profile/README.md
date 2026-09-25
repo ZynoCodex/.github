@@ -85,7 +85,7 @@ Have a system that needs rethinking, or an idea that needs a solid foundation? W
 
 <div align="center">
 
-**[zynocodex.dev](https://zycodex.githu.io)** · **[[hello@zynocodex.dev]](mailto:[zynocdex@gmail.com])**
+**[zynocodex.dev](https://zycodex.githu.io)** · **[hello@zynocodex.dev](mailto:[zynocdex@gmail.com])**
 
 </div>
 
